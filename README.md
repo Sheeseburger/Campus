@@ -1,6 +1,4 @@
 # Campus
-# BeiBao
-# Automatic clothes selector from user's wardrobe
 
 ## Welcome to BeiBao
 >This is the first project of [Innovation Campus](https://www.kpi.kharkov.ua/rus/2021/01/21/innovation-campus-ntu-hpi-pervyj-etap/). It is a special course in our University.
