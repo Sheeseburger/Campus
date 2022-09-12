@@ -1,6 +1,6 @@
 # Campus
 
-## Welcome to BeiBao
+## Welcome to Innovation Campus
 >This is the first project of [Innovation Campus](https://www.kpi.kharkov.ua/rus/2021/01/21/innovation-campus-ntu-hpi-pervyj-etap/). It is a special course in our University.
 > Project was created by @Sheeseburger and @annabellehere
 ## Explaining the project 
