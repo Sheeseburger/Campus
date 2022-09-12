@@ -31,11 +31,6 @@
 ## Task managment
 > We decided to work 50/50.I took pyramid and Anna cube.
 
-
-## User Instruction
-### Running flask
-> Before running flask, you need to export **WEATHER_API_KEY**, you need to sign up on openweathermap and make [API key](https://home.openweathermap.org/api_keys)
-
 ### Progress: 
 > Both of us had similar logic.We started program from 2d objects and upgrading it step-by-step. Anna took more mathematical approach. She made a bunch of If else for choosing symbol for printing. While I divided pyramid to three parts(left,middle and right side). After completing our main tasks we met each other and started conversation on how to improve our code and approuches.
 
